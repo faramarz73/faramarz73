@@ -5,6 +5,6 @@
 - 📫 How to reach me faramarzsedaghati73@gmail.com 
 
 <!---
-faramarz73/faramarz73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+faramarz73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
